@@ -1,0 +1,13 @@
+{
+    "name": "Avispa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "avispa.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node avispa.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
